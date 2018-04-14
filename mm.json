@@ -1,0 +1,19 @@
+{
+    "initCounter" : 30,
+    "baseInfo" : [
+    {
+        "currency" : "usdt"
+    },
+    {
+        "currency" : "xrp",
+        "initPrice" : 0.6219,
+        "lowLimit" : 0.5219,
+        "highLimit" : 0.8219,
+        "gap" : 5,
+        "rate" : 1.009,
+        "initBase" : 157,
+        "tradeAmount" : 1,
+        "orderLength" : 3
+    }
+    ]
+}
